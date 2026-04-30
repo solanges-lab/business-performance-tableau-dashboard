@@ -1,0 +1,21 @@
+order_id,customer_name,category,product_name,order_date,sales,quantity,region
+1001,Ana,Electronics,Laptop,2024-01-02,1200,1,West
+1002,Luis,Furniture,Office Chair,2024-01-03,250,2,South
+1003,Marta,Electronics,Smartphone,2024-01-05,800,1,East
+1004,Carlos,Clothing,Jacket,2024-01-07,120,1,North
+1005,Ana,Electronics,Headphones,2024-01-10,150,2,West
+1006,Sofia,Furniture,Desk,2024-01-12,400,1,South
+1007,Luis,Clothing,Shoes,2024-01-15,90,1,South
+1008,Pedro,Electronics,Tablet,2024-01-17,500,1,East
+1009,Marta,Clothing,T-Shirt,2024-01-20,40,3,East
+1010,Ana,Furniture,Bookshelf,2024-01-22,300,1,West
+1011,Carlos,Electronics,Monitor,2024-01-25,220,1,North
+1012,Sofia,Clothing,Dress,2024-01-28,110,1,South
+1013,Pedro,Furniture,Coffee Table,2024-02-01,180,1,East
+1014,Ana,Electronics,Keyboard,2024-02-04,80,2,West
+1015,Luis,Electronics,Mouse,2024-02-06,45,2,South
+1016,Marta,Furniture,Sofa,2024-02-09,900,1,East
+1017,Carlos,Clothing,Jeans,2024-02-11,70,1,North
+1018,Sofia,Electronics,Smartwatch,2024-02-15,250,1,South
+1019,Pedro,Clothing,Sweater,2024-02-18,60,2,East
+1020,Ana,Furniture,Lamp,2024-02-20,75,1,West
